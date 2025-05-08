@@ -153,8 +153,8 @@ createButton("FE Bypass", function()
 end)
 
 createButton("Script Dex", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/peyton2465/Dex/master/out.lua"))()
-end)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MainTreeUhh/UniversalScript/main/KeylessDexExplorer"))()
+    end)
 
 createButton("Tiger X", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/balintTheDevX/Tiger-X-V3/main/Tiger%20X%20V3.5%20Fixed"))()
